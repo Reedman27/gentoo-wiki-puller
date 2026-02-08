@@ -16,3 +16,4 @@ An AI-assisted guide system for Gentoo Linux that stays current by syncing with 
 
 ## License
 Licensed under the GNU General Public License v3.0 (GPLv3). See LICENSE for details.
+last thing idk if this will work
