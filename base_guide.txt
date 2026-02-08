@@ -1,3 +1,4 @@
+The original guide is this https://github.com/sergibarroso/gentoo_install
 Introduction
 Gentoo is a Linux distribution that, unlike binary distros like Arch, Debian, and many others, the software is compiled locally according to the user preferences and optimizations.
 
