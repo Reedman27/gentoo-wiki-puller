@@ -1,0 +1,5 @@
+venv/
+gentoo_db/
+__pycache__/
+*.pyc
+.env
