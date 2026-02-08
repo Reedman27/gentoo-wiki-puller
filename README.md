@@ -1,4 +1,4 @@
-# Gentux-AI: The Living Gentoo Assistant
+# Gentux-AI: Gentoo Assistant
 
 An AI-assisted guide system for Gentoo Linux that stays current by syncing with the Gentoo Wiki.
 
