@@ -13,7 +13,6 @@ An AI-assisted guide system for Gentoo Linux that stays current by syncing with 
 3. Install deps: `pip install chromadb ollama langchain-text-splitters requests beautifulsoup4`
 4. Ingest data: `python3 ingest.py`
 5. Chat: `python3 chat.py`
-
+The guide used for baseguide.txt is this https://github.com/sergibarroso/gentoo_install
 ## License
 Licensed under the GNU General Public License v3.0 (GPLv3). See LICENSE for details.
-last thing idk if this will work
