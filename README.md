@@ -12,7 +12,7 @@ An AI-assisted guide system for Gentoo Linux that stays current by syncing with 
 2. Set up venv: `python3 -m venv venv && source venv/bin/activate`
 3. Install deps: `pip install chromadb ollama langchain-text-splitters requests beautifulsoup4`
 4. Ingest data: `python3 ingest.py`
-Step 5: Chat with your AI
+5. Chat with your AI
 After training is complete, use the chat script to test your model:
 ```bash
 python3 chat.py
